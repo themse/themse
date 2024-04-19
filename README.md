@@ -9,6 +9,7 @@
 
 These projects are experimental playgrounds where I explore architectural approaches, libraries, and coding techniques. Designed to test concepts for future commercial projects, they offer valuable insights and tips gained through experimentation, shared with the development community. From trying new libraries to exploring innovative solutions, these projects help hone skills and expand knowledge.
 
+- Ecommerce Store / Admin Panel ([source](https://github.com/themse/ecommerce-store))
 - Simple Auth ([source](https://github.com/themse/simple-auth) | [view](https://simple-auth-smoky.vercel.app) | [ui-kit](https://simple-auth-storybook.vercel.app))
 - Countries App ([source](https://github.com/themse/countries-app) | [view](https://countries-app-test.vercel.app/) | [ui-kit](https://countries-app-sb.vercel.app/))
 - Sneaker Collector ([source](https://github.com/themse/sncollection) | [ui-kit](https://sncollection-sb.vercel.app))
